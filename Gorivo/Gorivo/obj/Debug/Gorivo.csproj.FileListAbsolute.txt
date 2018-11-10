@@ -1,0 +1,7 @@
+D:\Programiranje\Objektno Programiranje\Potrosnja goriva - moj program\Gorivo\Gorivo\bin\Debug\Gorivo.exe.config
+D:\Programiranje\Objektno Programiranje\Potrosnja goriva - moj program\Gorivo\Gorivo\bin\Debug\Gorivo.exe
+D:\Programiranje\Objektno Programiranje\Potrosnja goriva - moj program\Gorivo\Gorivo\bin\Debug\Gorivo.pdb
+D:\Programiranje\Objektno Programiranje\Potrosnja goriva - moj program\Gorivo\Gorivo\obj\Debug\Gorivo.csprojResolveAssemblyReference.cache
+D:\Programiranje\Objektno Programiranje\Potrosnja goriva - moj program\Gorivo\Gorivo\obj\Debug\Gorivo.csproj.CoreCompileInputs.cache
+D:\Programiranje\Objektno Programiranje\Potrosnja goriva - moj program\Gorivo\Gorivo\obj\Debug\Gorivo.exe
+D:\Programiranje\Objektno Programiranje\Potrosnja goriva - moj program\Gorivo\Gorivo\obj\Debug\Gorivo.pdb
